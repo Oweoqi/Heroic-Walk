@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="40" height="40" tilewidth="32" tileheight="32">
+ <tileset firstgid="49" name="completejohto9cynu3" tilewidth="32" tileheight="32">
+  <image source="completejohto9cynu3.png" width="256" height="11872"/>
+  <tile id="8">
+   <properties>
+    <property name="obstacle" value="1"/>
+   </properties>
+  </tile>
+  <tile id="12">
+   <properties>
+    <property name="obstacle" value="1"/>
+   </properties>
+  </tile>
+  <tile id="13">
+   <properties>
+    <property name="obstacle" value="1"/>
+   </properties>
+  </tile>
+  <tile id="14">
+   <properties>
+    <property name="obstacle" value="1"/>
+   </properties>
+  </tile>
+  <tile id="15">
+   <properties>
+    <property name="obstacle" value="1"/>
+   </properties>
+  </tile>
+  <tile id="20">
+   <properties>
+    <property name="obstacle" value="1"/>
+   </properties>
+  </tile>
+  <tile id="21">
+   <properties>
+    <property name="obstacle" value="1"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Ground" width="40" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzFlc1OAzEQg/edlitIgKhEbwVx5P1fgyBxqKI4sT3e5WBtu83Plxk73bdt2009iDpijySnM/6/z19hZNd3/aH0EDHt4P1ZYs42Ykzy9nuh7wrrihvtl/R1kpup/2h8irFSg6r/fvXY9HQSr1Oft6bL35znppeBXk2manZ7vTddB/oC3BWtOEfnQXxHyMkA4vtu+gjLyekNrPW5+V7awdjUXcmsXdkneberOV2do/8PVO5Fdx92TZVLZbufwzIynknz9fszGZmNdWrJ5k31NTpnMtuOj1Z9dTNX9bfSryor498ka+9d5rnyj+tBNEZ9Ol5HOU54RO2Nwpf0stIrpX7KXeb6GPkGfWZql8yw6nX2rEf4T/HCLHspHuVOcbOzmpNaczSu4jWGCzE4bGjeLF+zGrHvVn0Z7cUyq32f+R3Vd/bbyifMWmquEIOSDYXdzb+SE+Q5JheJu2rm97P0A8PLSjE=
+  </data>
+ </layer>
+ <layer name="upper" width="40" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztzrENADAIwDC+Klv7/1VwASsdbCl7IgCYnC63Jwa3e9sTAAAAAPCZAjueAO8=
+  </data>
+ </layer>
+</map>
